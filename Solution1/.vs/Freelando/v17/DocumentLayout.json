@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\wks\\4-testes\\3836-entity-freelando-curso1\\Solution1\\",
+  "WorkspaceRootPath": "C:\\wks\\4-testes\\ef-core\\Solution1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEE16317-DE2F-4B9C-BA35-FC70E3C34B35}|src\\Freelando.Api\\Freelando.Api.csproj|c:\\wks\\4-testes\\3836-entity-freelando-curso1\\solution1\\src\\freelando.api\\endpoints\\especialidadeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEE16317-DE2F-4B9C-BA35-FC70E3C34B35}|src\\Freelando.Api\\Freelando.Api.csproj|solutionrelative:src\\freelando.api\\endpoints\\especialidadeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC1E7C49-28F9-411F-ADCE-C42B637B1723}|src\\Freelando.Dados\\Freelando.Dados.csproj|c:\\wks\\4-testes\\ef-core\\solution1\\src\\freelando.dados\\freelandocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1E7C49-28F9-411F-ADCE-C42B637B1723}|src\\Freelando.Dados\\Freelando.Dados.csproj|solutionrelative:src\\freelando.dados\\freelandocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4825280D-E079-4E62-93FC-3407836CABAD}|src\\Freelando.Modelos\\Freelando.Modelos.csproj|c:\\wks\\4-testes\\ef-core\\solution1\\src\\freelando.modelos\\especialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4825280D-E079-4E62-93FC-3407836CABAD}|src\\Freelando.Modelos\\Freelando.Modelos.csproj|solutionrelative:src\\freelando.modelos\\especialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EspecialidadeExtension.cs",
-              "DocumentMoniker": "C:\\wks\\4-testes\\3836-entity-freelando-curso1\\Solution1\\src\\Freelando.Api\\Endpoints\\EspecialidadeExtension.cs",
-              "RelativeDocumentMoniker": "src\\Freelando.Api\\Endpoints\\EspecialidadeExtension.cs",
-              "ToolTip": "C:\\wks\\4-testes\\3836-entity-freelando-curso1\\Solution1\\src\\Freelando.Api\\Endpoints\\EspecialidadeExtension.cs",
-              "RelativeToolTip": "src\\Freelando.Api\\Endpoints\\EspecialidadeExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Especialidade.cs",
+              "DocumentMoniker": "C:\\wks\\4-testes\\ef-core\\Solution1\\src\\Freelando.Modelos\\Especialidade.cs",
+              "RelativeDocumentMoniker": "src\\Freelando.Modelos\\Especialidade.cs",
+              "ToolTip": "C:\\wks\\4-testes\\ef-core\\Solution1\\src\\Freelando.Modelos\\Especialidade.cs",
+              "RelativeToolTip": "src\\Freelando.Modelos\\Especialidade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T23:30:59.202Z",
+              "WhenOpened": "2024-08-26T16:27:47.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FreelandoContext.cs",
+              "DocumentMoniker": "C:\\wks\\4-testes\\ef-core\\Solution1\\src\\Freelando.Dados\\FreelandoContext.cs",
+              "RelativeDocumentMoniker": "src\\Freelando.Dados\\FreelandoContext.cs",
+              "ToolTip": "C:\\wks\\4-testes\\ef-core\\Solution1\\src\\Freelando.Dados\\FreelandoContext.cs",
+              "RelativeToolTip": "src\\Freelando.Dados\\FreelandoContext.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCAAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T16:25:59.672Z",
               "EditorCaption": ""
             }
           ]

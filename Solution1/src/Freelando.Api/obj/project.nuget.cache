@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wjn5vmt4wAQ=",
+  "dgSpecHash": "dB+ORYrsqAQ=",
   "success": true,
-  "projectFilePath": "C:\\wks\\4-testes\\3836-entity-freelando-curso1\\Solution1\\src\\Freelando.Api\\Freelando.Api.csproj",
+  "projectFilePath": "C:\\wks\\4-testes\\ef-core\\Solution1\\src\\Freelando.Api\\Freelando.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ricardo\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Ricardo\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Freelando.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f20082bcbc690be1afc7415af8ce9573917e7c97")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffb0ee677d945ec817d3c21ef108a3719141a002")]
 [assembly: System.Reflection.AssemblyProductAttribute("Freelando.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Freelando.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

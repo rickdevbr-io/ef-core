@@ -11,3 +11,16 @@ C:\wks\4-testes\3836-entity-freelando-curso1\Solution1\src\Freelando.Modelos\obj
 C:\wks\4-testes\3836-entity-freelando-curso1\Solution1\src\Freelando.Modelos\obj\Debug\net8.0\refint\Freelando.Modelos.dll
 C:\wks\4-testes\3836-entity-freelando-curso1\Solution1\src\Freelando.Modelos\obj\Debug\net8.0\Freelando.Modelos.pdb
 C:\wks\4-testes\3836-entity-freelando-curso1\Solution1\src\Freelando.Modelos\obj\Debug\net8.0\ref\Freelando.Modelos.dll
+C:\wks\4-testes\ef-core\Solution1\src\Freelando.Modelos\bin\Debug\net8.0\Freelando.Modelos.deps.json
+C:\wks\4-testes\ef-core\Solution1\src\Freelando.Modelos\bin\Debug\net8.0\Freelando.Modelos.dll
+C:\wks\4-testes\ef-core\Solution1\src\Freelando.Modelos\bin\Debug\net8.0\Freelando.Modelos.pdb
+C:\wks\4-testes\ef-core\Solution1\src\Freelando.Modelos\obj\Debug\net8.0\Freelando.Modelos.csproj.AssemblyReference.cache
+C:\wks\4-testes\ef-core\Solution1\src\Freelando.Modelos\obj\Debug\net8.0\Freelando.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\wks\4-testes\ef-core\Solution1\src\Freelando.Modelos\obj\Debug\net8.0\Freelando.Modelos.AssemblyInfoInputs.cache
+C:\wks\4-testes\ef-core\Solution1\src\Freelando.Modelos\obj\Debug\net8.0\Freelando.Modelos.AssemblyInfo.cs
+C:\wks\4-testes\ef-core\Solution1\src\Freelando.Modelos\obj\Debug\net8.0\Freelando.Modelos.csproj.CoreCompileInputs.cache
+C:\wks\4-testes\ef-core\Solution1\src\Freelando.Modelos\obj\Debug\net8.0\Freelando.Modelos.sourcelink.json
+C:\wks\4-testes\ef-core\Solution1\src\Freelando.Modelos\obj\Debug\net8.0\Freelando.Modelos.dll
+C:\wks\4-testes\ef-core\Solution1\src\Freelando.Modelos\obj\Debug\net8.0\refint\Freelando.Modelos.dll
+C:\wks\4-testes\ef-core\Solution1\src\Freelando.Modelos\obj\Debug\net8.0\Freelando.Modelos.pdb
+C:\wks\4-testes\ef-core\Solution1\src\Freelando.Modelos\obj\Debug\net8.0\ref\Freelando.Modelos.dll

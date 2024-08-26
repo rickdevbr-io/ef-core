@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\wks\\4-testes\\3836-entity-freelando-curso1\\Solution1\\src\\Freelando.Api\\Freelando.Api.csproj": {}
+    "C:\\wks\\4-testes\\ef-core\\Solution1\\src\\Freelando.Api\\Freelando.Api.csproj": {}
   },
   "projects": {
-    "C:\\wks\\4-testes\\3836-entity-freelando-curso1\\Solution1\\src\\Freelando.Api\\Freelando.Api.csproj": {
+    "C:\\wks\\4-testes\\ef-core\\Solution1\\src\\Freelando.Api\\Freelando.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\wks\\4-testes\\3836-entity-freelando-curso1\\Solution1\\src\\Freelando.Api\\Freelando.Api.csproj",
+        "projectUniqueName": "C:\\wks\\4-testes\\ef-core\\Solution1\\src\\Freelando.Api\\Freelando.Api.csproj",
         "projectName": "Freelando.Api",
-        "projectPath": "C:\\wks\\4-testes\\3836-entity-freelando-curso1\\Solution1\\src\\Freelando.Api\\Freelando.Api.csproj",
+        "projectPath": "C:\\wks\\4-testes\\ef-core\\Solution1\\src\\Freelando.Api\\Freelando.Api.csproj",
         "packagesPath": "C:\\Users\\Ricardo\\.nuget\\packages\\",
-        "outputPath": "C:\\wks\\4-testes\\3836-entity-freelando-curso1\\Solution1\\src\\Freelando.Api\\obj\\",
+        "outputPath": "C:\\wks\\4-testes\\ef-core\\Solution1\\src\\Freelando.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ricardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\wks\\4-testes\\3836-entity-freelando-curso1\\Solution1\\src\\Freelando.Dados\\Freelando.Dados.csproj": {
-                "projectPath": "C:\\wks\\4-testes\\3836-entity-freelando-curso1\\Solution1\\src\\Freelando.Dados\\Freelando.Dados.csproj"
+              "C:\\wks\\4-testes\\ef-core\\Solution1\\src\\Freelando.Dados\\Freelando.Dados.csproj": {
+                "projectPath": "C:\\wks\\4-testes\\ef-core\\Solution1\\src\\Freelando.Dados\\Freelando.Dados.csproj"
               },
-              "C:\\wks\\4-testes\\3836-entity-freelando-curso1\\Solution1\\src\\Freelando.Modelos\\Freelando.Modelos.csproj": {
-                "projectPath": "C:\\wks\\4-testes\\3836-entity-freelando-curso1\\Solution1\\src\\Freelando.Modelos\\Freelando.Modelos.csproj"
+              "C:\\wks\\4-testes\\ef-core\\Solution1\\src\\Freelando.Modelos\\Freelando.Modelos.csproj": {
+                "projectPath": "C:\\wks\\4-testes\\ef-core\\Solution1\\src\\Freelando.Modelos\\Freelando.Modelos.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\wks\\4-testes\\3836-entity-freelando-curso1\\Solution1\\src\\Freelando.Dados\\Freelando.Dados.csproj": {
+    "C:\\wks\\4-testes\\ef-core\\Solution1\\src\\Freelando.Dados\\Freelando.Dados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\wks\\4-testes\\3836-entity-freelando-curso1\\Solution1\\src\\Freelando.Dados\\Freelando.Dados.csproj",
+        "projectUniqueName": "C:\\wks\\4-testes\\ef-core\\Solution1\\src\\Freelando.Dados\\Freelando.Dados.csproj",
         "projectName": "Freelando.Dados",
-        "projectPath": "C:\\wks\\4-testes\\3836-entity-freelando-curso1\\Solution1\\src\\Freelando.Dados\\Freelando.Dados.csproj",
+        "projectPath": "C:\\wks\\4-testes\\ef-core\\Solution1\\src\\Freelando.Dados\\Freelando.Dados.csproj",
         "packagesPath": "C:\\Users\\Ricardo\\.nuget\\packages\\",
-        "outputPath": "C:\\wks\\4-testes\\3836-entity-freelando-curso1\\Solution1\\src\\Freelando.Dados\\obj\\",
+        "outputPath": "C:\\wks\\4-testes\\ef-core\\Solution1\\src\\Freelando.Dados\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ricardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -112,8 +112,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\wks\\4-testes\\3836-entity-freelando-curso1\\Solution1\\src\\Freelando.Modelos\\Freelando.Modelos.csproj": {
-                "projectPath": "C:\\wks\\4-testes\\3836-entity-freelando-curso1\\Solution1\\src\\Freelando.Modelos\\Freelando.Modelos.csproj"
+              "C:\\wks\\4-testes\\ef-core\\Solution1\\src\\Freelando.Modelos\\Freelando.Modelos.csproj": {
+                "projectPath": "C:\\wks\\4-testes\\ef-core\\Solution1\\src\\Freelando.Modelos\\Freelando.Modelos.csproj"
               }
             }
           }
@@ -162,14 +162,14 @@
         }
       }
     },
-    "C:\\wks\\4-testes\\3836-entity-freelando-curso1\\Solution1\\src\\Freelando.Modelos\\Freelando.Modelos.csproj": {
+    "C:\\wks\\4-testes\\ef-core\\Solution1\\src\\Freelando.Modelos\\Freelando.Modelos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\wks\\4-testes\\3836-entity-freelando-curso1\\Solution1\\src\\Freelando.Modelos\\Freelando.Modelos.csproj",
+        "projectUniqueName": "C:\\wks\\4-testes\\ef-core\\Solution1\\src\\Freelando.Modelos\\Freelando.Modelos.csproj",
         "projectName": "Freelando.Modelos",
-        "projectPath": "C:\\wks\\4-testes\\3836-entity-freelando-curso1\\Solution1\\src\\Freelando.Modelos\\Freelando.Modelos.csproj",
+        "projectPath": "C:\\wks\\4-testes\\ef-core\\Solution1\\src\\Freelando.Modelos\\Freelando.Modelos.csproj",
         "packagesPath": "C:\\Users\\Ricardo\\.nuget\\packages\\",
-        "outputPath": "C:\\wks\\4-testes\\3836-entity-freelando-curso1\\Solution1\\src\\Freelando.Modelos\\obj\\",
+        "outputPath": "C:\\wks\\4-testes\\ef-core\\Solution1\\src\\Freelando.Modelos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ricardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
