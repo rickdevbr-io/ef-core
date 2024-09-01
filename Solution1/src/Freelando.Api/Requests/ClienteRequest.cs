@@ -1,3 +1,5 @@
-﻿namespace Freelando.Api.Requests;
+﻿using Freelando.Modelo;
 
-public record ClienteRequest(Guid Id, string? Nome, string? Cpf, string? Email, string? Telefone);
+namespace Freelando.Api.Requests;
+
+public record ClienteRequest(Guid Id, string? Nome, string? Cpf, string? Email, string? Telefone, ICollection<ProjetoRequest> Projetos);

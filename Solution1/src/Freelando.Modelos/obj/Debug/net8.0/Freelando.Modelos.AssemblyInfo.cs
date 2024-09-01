@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Freelando.Modelos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffb0ee677d945ec817d3c21ef108a3719141a002")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31a17b59d13d27ba01b402d131764cb3241926f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Freelando.Modelos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Freelando.Modelos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

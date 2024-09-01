@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\wks\\4-testes\\ef-core\\Solution1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEE16317-DE2F-4B9C-BA35-FC70E3C34B35}|src\\Freelando.Api\\Freelando.Api.csproj|c:\\wks\\4-testes\\ef-core\\solution1\\src\\freelando.api\\endpoints\\projetoextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEE16317-DE2F-4B9C-BA35-FC70E3C34B35}|src\\Freelando.Api\\Freelando.Api.csproj|solutionrelative:src\\freelando.api\\endpoints\\projetoextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC1E7C49-28F9-411F-ADCE-C42B637B1723}|src\\Freelando.Dados\\Freelando.Dados.csproj|c:\\wks\\4-testes\\ef-core\\solution1\\src\\freelando.dados\\mapeamentos\\projetotypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC1E7C49-28F9-411F-ADCE-C42B637B1723}|src\\Freelando.Dados\\Freelando.Dados.csproj|solutionrelative:src\\freelando.dados\\mapeamentos\\projetotypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEE16317-DE2F-4B9C-BA35-FC70E3C34B35}|src\\Freelando.Api\\Freelando.Api.csproj|c:\\wks\\4-testes\\ef-core\\solution1\\src\\freelando.api\\endpoints\\especialidadeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE16317-DE2F-4B9C-BA35-FC70E3C34B35}|src\\Freelando.Api\\Freelando.Api.csproj|solutionrelative:src\\freelando.api\\endpoints\\especialidadeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProjetoTypeConfiguration.cs",
-              "DocumentMoniker": "C:\\wks\\4-testes\\ef-core\\Solution1\\src\\Freelando.Dados\\Mapeamentos\\ProjetoTypeConfiguration.cs",
-              "RelativeDocumentMoniker": "src\\Freelando.Dados\\Mapeamentos\\ProjetoTypeConfiguration.cs",
-              "ToolTip": "C:\\wks\\4-testes\\ef-core\\Solution1\\src\\Freelando.Dados\\Mapeamentos\\ProjetoTypeConfiguration.cs",
-              "RelativeToolTip": "src\\Freelando.Dados\\Mapeamentos\\ProjetoTypeConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T20:08:26.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProjetoExtension.cs",
-              "DocumentMoniker": "C:\\wks\\4-testes\\ef-core\\Solution1\\src\\Freelando.Api\\Endpoints\\ProjetoExtension.cs",
-              "RelativeDocumentMoniker": "src\\Freelando.Api\\Endpoints\\ProjetoExtension.cs",
-              "ToolTip": "C:\\wks\\4-testes\\ef-core\\Solution1\\src\\Freelando.Api\\Endpoints\\ProjetoExtension.cs",
-              "RelativeToolTip": "src\\Freelando.Api\\Endpoints\\ProjetoExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Title": "EspecialidadeExtension.cs",
+              "DocumentMoniker": "C:\\wks\\4-testes\\ef-core\\Solution1\\src\\Freelando.Api\\Endpoints\\EspecialidadeExtension.cs",
+              "RelativeDocumentMoniker": "src\\Freelando.Api\\Endpoints\\EspecialidadeExtension.cs",
+              "ToolTip": "C:\\wks\\4-testes\\ef-core\\Solution1\\src\\Freelando.Api\\Endpoints\\EspecialidadeExtension.cs",
+              "RelativeToolTip": "src\\Freelando.Api\\Endpoints\\EspecialidadeExtension.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAADwv0EAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T19:50:19.584Z",
+              "WhenOpened": "2024-09-01T18:57:22.487Z",
               "EditorCaption": ""
             }
           ]
